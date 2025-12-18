@@ -1,11 +1,11 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class DayOfWeek{
 	public static void main(String args[]){
-		Scanner sc = new Scanner(System.in);
-		int m = sc.nextInt();
-		int d = sc.nextInt();
-		int year = sc.nextInt();
+		//Scanner sc = new Scanner(System.in);
+		int m = Integer.parseInt(args[0]);
+		int d = Integer.parseInt(args[1]);
+		int year = Integer.parseInt(args[2]);
 		
 		int y0 = year-(14-m)/12;
 		
