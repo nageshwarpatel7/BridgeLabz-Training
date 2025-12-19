@@ -5,31 +5,29 @@ public class LargestElement{
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Enter a number: ");
-		int num = sc.nextInt();
-		int cnt =0;
-		int temp = num;
+		long num = sc.nextLong();
+		
+		
+		long arr[] = new long[10];
+		long temp = num;
+		int i=0;
 		while(temp>0){
-			cnt++;
+			arr[i] = temp%10;
+			i++;
+			if(i==10)
+				break;
 			temp/=10;
 		}
 		
-		int arr[] = new int[cnt];
-		temp = num;
-		while(temp>0){
-			arr[cnt-1] = temp%10;
-			cnt--;
-			temp/=10;
-		}
-		
-		int large = Integer.MIN_VALUE;
-		int secLargest = Integer.MIN_VALUE;
-		for(int i:arr){
-			if(i>large){
+		long large = Integer.MIN_VALUE;
+		long secLargest = Integer.MIN_VALUE;
+		for(int j=0;j<10;j++){
+			if(arr[j]>large){
 				secLargest =large;
-				large =i;
+				large = arr[j];
 			}
-			else if(i>secLargest && i!=large)
-				secLargest =i;
+			else if(arr[j]>secLargest && arr[j]!=large)
+				secLargest =arr[j];
 		}
 		System.out.println("\nLargest digit is: "+large);
 		System.out.println("Second largest digit is "+secLargest);
