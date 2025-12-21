@@ -20,10 +20,9 @@ public class CalendarGeneration{
 	public static int getMonthDay(int year, int month){
 		int days[] = {31,28, 31,30,31,30,31,31,30,31,30,31};
 		
-		if(isLeapYear(year)==true)
+		if(isLeapYear(year))
 			return 29;
-		else 
-			return days[month-1];
+		return days[month-1];
 	}
 	public static int getFirstDay(int d, int m, int y){
 		int y0= y - (14-m)/12;
@@ -36,7 +35,7 @@ public class CalendarGeneration{
 	
 	public static boolean isLeapYear(int year){
 		
-			if((year%400==0 || (year%4==0 && year%1!=0)))
+			if((year%400==0 || (year%4==0 && year%100!=0)))
 				return true;
 			else
 				return false;
@@ -52,7 +51,7 @@ public class CalendarGeneration{
 		
 		
 		for(int i=0;i<firstDay;i++){
-			System.out.print("   ");
+			System.out.print("    ");
 		}
 		
 		for(int i=1;i<=totalDays;i++){
