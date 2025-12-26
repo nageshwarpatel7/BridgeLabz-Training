@@ -65,7 +65,7 @@ Day 5: studied Arrays in java
 > Solved practice problem based on array.  
 > Commited and pushed solutions to repository.  
 Code link  
-[Day 5: Control flow](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+[Day 5: Arrays](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 Day 6: studied methods in java  
 (Date: 22 Dec 2025)  
