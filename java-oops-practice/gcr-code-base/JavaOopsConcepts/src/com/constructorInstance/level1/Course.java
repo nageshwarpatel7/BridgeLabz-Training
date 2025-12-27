@@ -1,4 +1,4 @@
-package com.constructorInstance.level2;
+package com.constructorInstance.level1;
 
 public class Course {
 	public String courseName;
