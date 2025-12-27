@@ -2,7 +2,7 @@ package com.constructorInstance.level1;
 import java.util.*;
 
 public class Circle {
-	int radius;
+	public int radius;
 	Circle(){
 		radius =10;
 	}
