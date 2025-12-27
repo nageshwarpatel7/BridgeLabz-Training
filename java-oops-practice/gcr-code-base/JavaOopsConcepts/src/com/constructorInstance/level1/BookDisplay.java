@@ -2,9 +2,9 @@ package com.constructorInstance.level1;
 import java.util.*;
 
 public class BookDisplay {
-	String bookName;
-	String authorName;
-	int price;
+	public String bookName;
+	public String authorName;
+	public int price;
 	
 	public BookDisplay() {
 		this.bookName ="Revolution 2020";
