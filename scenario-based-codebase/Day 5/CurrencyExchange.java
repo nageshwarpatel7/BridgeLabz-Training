@@ -45,7 +45,7 @@ public class CurrencyExchange{
 			if(choice =='n' || choice =='N'){
 				System.out.println("\nThank You!, Please visit again!");
 				break;
-			}
+			}	
 			
 		}while(true);
 	}
