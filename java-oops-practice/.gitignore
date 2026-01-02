@@ -46,3 +46,4 @@ build/
 
 # Environment files
 .env
+.metadata/
