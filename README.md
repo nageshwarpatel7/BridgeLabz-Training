@@ -98,7 +98,7 @@ Code link
 
 
 
-\## 🗓 Day 9 – Scenario-based problem \& leetcode Practice
+Day 9:  Scenario-based problem \& leetcode Practice
 
 \*(Date: 24-Dec-2025)\*
 
@@ -133,8 +133,7 @@ Code link
 \## ---> Object Oriented Programming Practice
 
 
-
-\## 🗓 Day 10 – Oops Concept,  Scenario-based problem \& leetcode Practice 
+ Day 10: Oops Concept,  Scenario-based problem \& leetcode Practice 
 
 \*(Date: 26-Dec-2025)\*
 
