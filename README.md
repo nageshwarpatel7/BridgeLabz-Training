@@ -65,7 +65,7 @@ Day 5: studied Arrays in java
 > Solved practice problem based on array.  
 > Commited and pushed solutions to repository.  
 Code link  
-[Day 5: Arrays](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+[Day 5: Control flow](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 Day 6: studied methods in java  
 (Date: 22 Dec 2025)  
@@ -93,5 +93,39 @@ Day 8: studied date and time concept in java and solved extra questions
 > Solved extra practice problem based on methods.      
 > Commited and pushed solutions to repository.  
 Code link  
-[Day 8: Extra questions ](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)  
+[Day 8: Extra questions ](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
 
+Day 9: LeetCode Problems
+(Date: 24-Dec-2025)
+> solved 2 scenario-based problems
+> Solved Esay String and Arrays problem on leetcode
+> practice String, Math, and Array problems
+> Code Link: [Leet-code-base](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%201)
+
+Day 10: scenario-code-base problem
+(Date: 26-Dec-2025)  
+> solved 2 scenario-based problems
+> Solved practice problems and enchance the feature
+> Pushed solutions to GitHub
+> Code Link: [core-java-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%202)
+
+Day 11: scenario-code-base problem
+(Date: 29-Dec-2025)  
+> solved 5 scenario-based problems
+> Solved practice problems and enchance the feature
+> Pushed solutions to GitHub
+> Code Link: [core-java-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%203)
+
+Day 12: scenario-code-base problem
+(Date: 30-Dec-2025)  
+> solved 5 scenario-based problems
+> Solved practice problems and enchance the feature
+> Pushed solutions to GitHub
+> Code Link: [core-java-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%204)
+
+Day 13: scenario-code-base problem
+(Date: 31-Dec-2025)  
+> solved 5 scenario-based problems
+> Solved practice problems and enchance the feature
+> Pushed solutions to GitHub
+> Code Link: [core-java-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%205)
