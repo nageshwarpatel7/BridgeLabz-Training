@@ -1,8 +1,6 @@
 Week 1: Git, GitHub and programming fundamentals  
 
-Day 1- Git & GitHub setup  
-(Date: 16 Dec 2025)  
-
+Date: 16-Dec-2025 (Git & GitHub setup)   
 > Installed and configured Git.  
 > Set up GitHub repository.  
 ```
@@ -24,9 +22,7 @@ BridgeLabz-Training/
 > Learned basic Git commands.  
 > Sucessfully pushed files to the repository.  
 
-Day 2: Git practice and basic java programs  
-(Date: 17 Dec 2025)  
-
+Date: 17-Dec-2025 (Git practice and basic java programs)    
 > Practised Git workflow to understand commits and version control.  
 > Solved basic programs to understand syntax and structure.  
 > Practised adding, commiting and pushing java files to Github.  
@@ -34,9 +30,7 @@ Code link
 [Day 2: Basic java programs](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-prerequisite)  
 
 
-Day 3: Git practice and basic java programs  
-(Date: 18 Dec 2025)  
-
+Date: 18-Dec-2025 (Git practice and basic java programs)  
 > Studied java programming elements  
       > Variables and data-types  
       > Operators  
@@ -46,9 +40,7 @@ Day 3: Git practice and basic java programs
 Code link  
 [Day 3: Programming Elements](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)  
 
-Day 4: java control flow programs  
-(Date: 19 Dec 2025)  
-
+Date: 10-Dec=2025 (java control flow programs)
 > Studied java control flow  
       > if-else  
       > loops  
@@ -58,36 +50,28 @@ Day 4: java control flow programs
 Code link  
 [Day 4: Control flow](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)  
 
-Day 5: studied Arrays in java  
-(Date: 20 Dec 2025)  
-
+Date: 20-Dec-2025 (studied Arrays in java)   
 > Studied java Arrays  
 > Solved practice problem based on array.  
 > Commited and pushed solutions to repository.  
 Code link  
 [Day 5: Control flow](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
-Day 6: studied methods in java  
-(Date: 22 Dec 2025)  
-
+Date: 22-Dec-2025 (studied methods in java)   
 > Studied java methods    
 > Solved practice problem based on methods.    
 > Commited and pushed solutions to repository.  
 Code link  
 [Day 6: Methods ](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
-Day 7: studied strings in java  
-(Date: 23 Dec 2025)  
-
+Date: 23-Dec-2025 (studied strings in java)    
 > Studied java strings.      
 > Solved practice problem based on string.      
 > Commited and pushed solutions to repository.  
 Code link  
 [Day 7: Strings ](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
-Day 8: studied date and time concept in java and solved extra questions  
-(Date: 24 Dec 2025)  
-
+Date: 24-Dec-2025 (studied date and time concept in java and solved extra questions)    
 > Studied how to get dates in different formats in java.
 > Solved extra practice problems based on bult-in functions      
 > Solved extra practice problem based on methods.      
@@ -95,36 +79,31 @@ Day 8: studied date and time concept in java and solved extra questions
 Code link  
 [Day 8: Extra questions ](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
 
-Day 9: LeetCode Problems
-(Date: 24-Dec-2025)
+Date: 24-Dec-2025 (LeetCode Problems)
 > solved 2 scenario-based problems
 > Solved Esay String and Arrays problem on leetcode
 > practice String, Math, and Array problems
 > Code Link: [Leet-code-base](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%201)
 
-Day 10: scenario-code-base problem
-(Date: 26-Dec-2025)  
+Date: 26-Dec-2025 (scenario-code-base problem)
 > solved 2 scenario-based problems
 > Solved practice problems and enchance the feature
 > Pushed solutions to GitHub
 > Code Link: [core-java-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%202)
 
-Day 11: scenario-code-base problem
-(Date: 29-Dec-2025)  
+Date: 29-Dec-2025 (scenario-code-base problem)
 > solved 5 scenario-based problems
 > Solved practice problems and enchance the feature
 > Pushed solutions to GitHub
 > Code Link: [core-java-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%203)
 
-Day 12: scenario-code-base problem
-(Date: 30-Dec-2025)  
+Date: 30-Dec-2025 (scenario-code-base problem)
 > solved 5 scenario-based problems
 > Solved practice problems and enchance the feature
 > Pushed solutions to GitHub
 > Code Link: [core-java-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%204)
 
-Day 13: scenario-code-base problem
-(Date: 31-Dec-2025)  
+Date: 31-Dec-2025 (scenario-code-base problem)
 > solved 5 scenario-based problems
 > Solved practice problems and enchance the feature
 > Pushed solutions to GitHub
