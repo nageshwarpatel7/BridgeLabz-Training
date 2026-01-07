@@ -1,73 +1,72 @@
 # BridgeLabz Training Progress Log 
 ---
-### Day 10 – Object-oriented Programming Fundamental
-**Date:** 26-Dec-2025
+## Week-2 Object-oriented Programming
+---
+### Date: 26-Dec-2025 (Object-oriented Programming Fundamental)
 - Create new branch java-oops-practice
 - work on eclips ide and Java Project -> JavaOopsConcepts
 -  Learned basic of eclips IDE and solved class and objects problems
 -  Created new Java Project -> JavaOopsConsepts
 -  Code Link: [java-ooops-practice(class and object)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/bridgelabz/oops/leveltwo)
 ---
-###  Day 11 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts
-**Date:** 27-Dec-2025 
+###  Date: 27-Dec-2025 (Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts)
 - Practiced Constructors various problem
 - Solved basic oops problem and Access Modifiers releated questions.
 - Committed and pushed Constructors Program on github
 - Code Link: [java-ooops-practice(constructors)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructorInstance/level1)
 ---
-###  Day 12 – this, static, final key words and instanceof operator Content 
-**Date:** 29-Dec-2025  
+###  Date: 29-Dec-2025 (this, static, final key words and instanceof operator Content)
 - solved many problem based on keyword Instance, this, and final
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
 - Code Link: [java-ooops-practice(inbuiltfunction)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)
 ---
-###  Day 13 – Object Modeling, Class Diagram
-**Date:** 30-Dec-2025  
+###  Date: 30-Dec-2025 (Object Modeling, Class Diagram)
 - solved many problem based on object Modeling and class Diagram
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
 - Code Link: [java-ooops-practice(objectmodeling)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/bridgelabz/oops/relationship)
 ---
-###  Day 14 – Inheritance
-**Date:** 31-Dec-2025  
+###  Date: 31-Dec-2025 (Inheritance)
 - solved many problem based on Inheritance
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
 - Code Link: [java-ooops-practice(Inheritance)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/bridgelabz/oops/inheritance)
 ---
-###  Day 15 – Encapsulation, Polymorphism, Interface, and Abstract Classes
-**Date:** 01-Jan-2026  
+###  Date: 01-Jan-2026  (Encapsulation, Polymorphism, Interface, and Abstract Classes)
 - solved many problem based on Encapsulation, Polymorphism, Interface, and Abstract Classes
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
 - Code Link: [java-ooops-practice(Encapsulation)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation)
 ---
-###  Day 16 – scenario-code-base problem
-**Date:** 02-Jan-2026
+## Week-3 Scenario-based Questions
+---
+###  Date: 02-Jan-2026 (scenario-code-base problem)
 - solved 5 scenario-based problems
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
 - Code Link: [java-oops-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops)
 ---
-###  Day 17 – scenario-code-base problem
-**Date:** 03-Jan-2026
+###  Date: 03-Jan-2026 (scenario-code-base problem)
 - solved 2 scenario-based problems
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
 - Code Link: [java-oops-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops)
 ---
-###  Day 18 – scenario-code-base problem
-**Date:** 05-Jan-2026
+###  Date: 05-Jan-2026 (scenario-code-base problem)
 - solved 2 scenario-based problems
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
 - Code Link: [java-oops-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops)
 ---
-###  Day 19 – scenario-code-base problem
-**Date:** 06-Jan-2026
+###  Date: 06-Jan-2026 – scenario-code-base problem
 - solved 2 scenario-based problems
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
 - Code Link: [java-oops-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops)
 ---
+###  Date: 07-Jan-2026 – scenario-code-base problem
+- solved scenario-based problems
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops)
