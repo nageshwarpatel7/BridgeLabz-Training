@@ -80,24 +80,21 @@ Code link
 [Day 8: Extra questions ](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
 
 Date: 24-Dec-2025 (LeetCode Problems)
-
-> solved 2 scenario-based problems
-> Solved Esay String and Arrays problem on leetcode
-> practice String, Math, and Array problems
+> solved 2 scenario-based problems.
+> Solved Esay String and Arrays problem on leetcode.
+> practice String, Math, and Array problems.
 > Code Link: [Leet-code-base](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%201)
 
 Date: 26-Dec-2025 (scenario-code-base problem)
-
-> solved 2 scenario-based problems
-> Solved practice problems and enchance the feature
-> Pushed solutions to GitHub
+> solved 2 scenario-based problems.
+> Solved practice problems and enchance the features.
+> Pushed solutions to GitHub.
 > Code Link: [core-java-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%202)
 
 Date: 29-Dec-2025 (scenario-code-base problem)
-
-> solved 5 scenario-based problems
-> Solved practice problems and enchance the feature
-> Pushed solutions to GitHub
+> solved 5 scenario-based problems.
+> Solved practice problems and enchance the feature.
+> Pushed solutions to GitHub.
 > Code Link: [core-java-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%203)
 
 Date: 30-Dec-2025 (scenario-code-base problem)
