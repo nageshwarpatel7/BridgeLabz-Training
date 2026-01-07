@@ -1,8 +1,8 @@
 Week 1: Git, GitHub and programming fundamentals   
 
-Date: 16-Dec-2025 (Git & GitHub setup)   
-> Installed and configured Git.  
-> Set up GitHub repository.  
+### 📅 16-Dec-2025 (Git & GitHub setup)   
+- Installed and configured Git.  
+- Set up GitHub repository.  
 ```
 BridgeLabz-Training/
 |---- core-java-practice/
@@ -19,92 +19,124 @@ BridgeLabz-Training/
 |-----README.md/
 ```
 
-> Learned basic Git commands.  
-> Sucessfully pushed files to the repository.  
 
-Date: 17-Dec-2025 (Git practice and basic java programs)    
-> Practised Git workflow to understand commits and version control.  
-> Solved basic programs to understand syntax and structure.  
-> Practised adding, commiting and pushing java files to Github.  
-Code link  
-[Day 2: Basic java programs](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-prerequisite)  
+- Learned basic Git commands  
+- Successfully pushed files to the repository  
 
+---
 
-Date: 18-Dec-2025 (Git practice and basic java programs)  
-> Studied java programming elements  
-      > Variables and data-types  
-      > Operators  
-      > User input and output  
-> Solved practice problem based on programming elements.  
-> Commited and pushed solutions to repository.  
-Code link  
-[Day 3: Programming Elements](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)  
+### 📅 17-Dec-2025 (Git Practice & Basic Java Programs)
+- Practised Git workflow to understand commits and version control  
+- Solved basic Java programs to understand syntax and structure  
+- Practised adding, committing, and pushing Java files to GitHub  
 
-Date: 10-Dec=2025 (java control flow programs)
-> Studied java control flow  
-      > if-else  
-      > loops  
-      > switch case  
-> Solved practice problem based on control flow  
-> Commited and pushed solutions to repository.  
-Code link  
-[Day 4: Control flow](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)  
+**Code Link:**  
+[Day 2: Basic Java Programs](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-prerequisite)
 
-Date: 20-Dec-2025 (studied Arrays in java)   
-> Studied java Arrays  
-> Solved practice problem based on array.  
-> Commited and pushed solutions to repository.  
-Code link  
-[Day 5: Control flow](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+---
 
-Date: 22-Dec-2025 (studied methods in java)   
-> Studied java methods    
-> Solved practice problem based on methods.    
-> Commited and pushed solutions to repository.  
-Code link  
-[Day 6: Methods ](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+### 📅 18-Dec-2025 (Programming Elements)
+- Studied Java programming elements:
+  - Variables and Data Types  
+  - Operators  
+  - User Input and Output  
+- Solved practice problems  
+- Committed and pushed solutions  
 
-Date: 23-Dec-2025 (studied strings in java)    
-> Studied java strings.      
-> Solved practice problem based on string.      
-> Commited and pushed solutions to repository.  
-Code link  
-[Day 7: Strings ](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+**Code Link:**  
+[Day 3: Programming Elements](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
-Date: 24-Dec-2025 (studied date and time concept in java and solved extra questions)    
-> Studied how to get dates in different formats in java.
-> Solved extra practice problems based on bult-in functions      
-> Solved extra practice problem based on methods.      
-> Commited and pushed solutions to repository.  
-Code link  
-[Day 8: Extra questions ](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+---
 
-Date: 26-Dec-2025 (scenario-code-base problem)
-> solved 2 scenario-based problems.
-> Solved practice problems and enchance the features.
-> Pushed solutions to GitHub.
-Code link
-[core-java-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%202)
+### 📅 19-Dec-2025 (Java Control Flow)
+- Studied Java control flow:
+  - if-else  
+  - loops  
+  - switch case  
+- Solved practice problems  
+- Committed and pushed solutions  
 
-Date: 29-Dec-2025 (scenario-code-base problem)
-> solved 5 scenario-based problems.
-> Solved practice problems and enchance the feature.
-> Pushed solutions to GitHub.
-Code link
-[core-java-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%203)
+**Code Link:**  
+[Day 4: Control Flow](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
+---
 
-Date: 30-Dec-2025 (scenario-code-base problem)
-> solved 5 scenario-based problems
-> Solved practice problems and enchance the feature
-> Pushed solutions to GitHub
-Code link
-[core-java-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%204)
+### 📅 20-Dec-2025 (Arrays in Java)
+- Studied Java arrays  
+- Solved array-based practice problems  
+- Committed and pushed solutions  
 
+**Code Link:**  
+[Day 5: Arrays](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
-Date: 31-Dec-2025 (scenario-code-base problem)
-> solved 5 scenario-based problems
-> Solved practice problems and enchance the feature
-> Pushed solutions to GitHub\
-Code link
-[core-java-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%205)
+---
+
+### 📅 22-Dec-2025 (Methods in Java)
+- Studied Java methods  
+- Solved method-based problems  
+- Committed and pushed solutions  
+
+**Code Link:**  
+[Day 6: Methods](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+
+---
+
+### 📅 23-Dec-2025 (Strings in Java)
+- Studied Java strings  
+- Solved string-based problems  
+- Committed and pushed solutions  
+
+**Code Link:**  
+[Day 7: Strings](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+
+---
+
+### 📅 24-Dec-2025 (Date & Time + Extra Problems)
+- Studied Java Date and Time concepts  
+- Worked with different date formats  
+- Solved extra problems using built-in functions  
+- Solved extra problems using methods  
+- Committed and pushed solutions  
+
+**Code Link:**  
+[Day 8: Extra Questions](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+
+---
+
+### 📅 26-Dec-2025 (Scenario-Based Problems – Day 2)
+- Solved 2 scenario-based problems  
+- Enhanced features  
+- Pushed solutions to GitHub  
+
+**Code Link:**  
+[Scenario Codebase – Day 2](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%202)
+
+---
+
+### 📅 29-Dec-2025 (Scenario-Based Problems – Day 3)
+- Solved 5 scenario-based problems  
+- Enhanced features  
+- Pushed solutions to GitHub  
+
+**Code Link:**  
+[Scenario Codebase – Day 3](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%203)
+
+---
+
+### 📅 30-Dec-2025 (Scenario-Based Problems – Day 4)
+- Solved 5 scenario-based problems  
+- Enhanced features  
+- Pushed solutions to GitHub  
+
+**Code Link:**  
+[Scenario Codebase – Day 4](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%204)
+
+---
+
+### 📅 31-Dec-2025 (Scenario-Based Problems – Day 5)
+- Solved 5 scenario-based problems  
+- Enhanced features  
+- Pushed solutions to GitHub  
+
+**Code Link:**  
+[Scenario Codebase – Day 5](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day%205)
