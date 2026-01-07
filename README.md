@@ -1,4 +1,4 @@
-Week 1: Git, GitHub and programming fundamentals  
+Week 1: Git, GitHub and programming fundamentals   
 
 Date: 16-Dec-2025 (Git & GitHub setup)   
 > Installed and configured Git.  
