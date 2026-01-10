@@ -26,10 +26,15 @@
 - Code Link: [dsa-practice(StringBuilder)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructures/src/stringbuilder)
 - Code Link: [dsa-practice(StringBuffer)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructures/src/stringbuffer)
 - Code Link: [dsa-practice(FileHandling)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructures/src/filehandling)
-
-- ---
+---
 ### Date: 07-Jan-2026 (Algorithm's Runtime Analysis & Big-O Notation)
 - Worked on "dsa-practice" and "java-oops-practice" branch
 - Solved and learned Algorithm's Runtime Analysis & Big-O Notation
 - Pushed solution to Github
 - Code Link: [dsa-practice(Notation)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructures) 
+---
+### Date: 09-Jan-2026 (Leet-code-codebase)
+- Worked on "dsa-practice" and "java-oops-practice"
+- Solved and learned sliding window problems in leetcode
+- Pushed solution to Github 
+- Code Link: [dsa-practice(slidingWindow)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase/slidingwindow)
