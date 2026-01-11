@@ -44,5 +44,5 @@
 - Solved scenario based question using linkedlist and hashmap
 - Solved and learned leetcode questions 
 - Pushed solutions to Github
-- Code Link: [dsa-practice(scenario-based-codebase)] (https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
-- Code Link: [dsa-[dsa-practice(slidingWindow)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase/slidingwindow)
+- Code Link: [dsa-practice(scenario-based-codebase)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
+- Code Link: [dsa-practice(slidingWindow)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase/slidingwindow)
