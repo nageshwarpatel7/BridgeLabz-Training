@@ -4,7 +4,6 @@ public class SmartShelf {
 	static String books[] = new String[10];
     static int count = 0;
 
-    // ---------- MODULE 1: ADD BOOK ----------
     static void addBook(String title) {
         books[count] = title;
         count++;
@@ -12,7 +11,6 @@ public class SmartShelf {
         displayBooks();
     }
 
-    // ---------- MODULE 2: INSERTION SORT ----------
     static void insertionSort() {
         int i, j;
         String key;
@@ -29,7 +27,6 @@ public class SmartShelf {
         }
     }
 
-    // ---------- MODULE 3: DISPLAY ----------
     static void displayBooks() {
         System.out.println("Current Book List:");
         for (int i = 0; i < count; i++) {
@@ -38,7 +35,6 @@ public class SmartShelf {
         System.out.println();
     }
 
-    // ---------- MAIN MODULE ----------
     public static void main(String[] args) {
 
         addBook("Data Structures");
