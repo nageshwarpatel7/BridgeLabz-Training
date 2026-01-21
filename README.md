@@ -119,3 +119,10 @@
 - Code link: [Food Fest](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src/FoodFest)
 - Code link: [Gamer Zone](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src/GamerZone)
 ---
+### Date: 21-Jan-2026 (Scenario-based-codebase)
+- Worked on"dsa-practice"
+- Solved scenario based question using BST tree 
+- Pushed solutions to Github
+- Code link: [UniversityDigitalRecordSystem](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src/UniversityDigitalRecordSystem)
+- Code link: [Ecommerce Product](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src/ECommerceProduct)
+- Code link: [Music App](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src/MusicApp)
