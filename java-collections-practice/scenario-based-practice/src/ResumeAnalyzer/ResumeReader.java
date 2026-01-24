@@ -1,4 +1,4 @@
-package scenariobasedpractice.ResumeAnalyzer;
+package ResumeAnalyzer;
 
 import java.io.*;
 import java.util.regex.Pattern;

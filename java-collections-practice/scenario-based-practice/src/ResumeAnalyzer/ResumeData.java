@@ -1,4 +1,4 @@
-package scenariobasedpractice.ResumeAnalyzer;
+package ResumeAnalyzer;
 import java.util.Set;
 
 public class ResumeData {
