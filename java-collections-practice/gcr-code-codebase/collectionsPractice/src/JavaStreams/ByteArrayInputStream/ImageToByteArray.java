@@ -1,4 +1,4 @@
-package collections.JavaStreams.ByteArrayInputStream;
+package JavaStreams.ByteArrayInputStream;
 
 import java.io.ByteArrayInputStream;
 import java.io.*;
