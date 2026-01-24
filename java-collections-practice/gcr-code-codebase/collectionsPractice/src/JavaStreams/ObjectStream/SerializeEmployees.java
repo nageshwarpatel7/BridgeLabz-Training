@@ -1,4 +1,4 @@
-package collections.JavaStreams.ObjectStream;
+package JavaStreams.ObjectStream;
 
 import java.io.*;
 import java.util.*;
