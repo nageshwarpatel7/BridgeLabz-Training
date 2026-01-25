@@ -3,7 +3,6 @@ package ExceptionHandling;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-// Custom Exception
 class InvalidAgeException extends Exception {
     public InvalidAgeException(String message) {
         super(message);
