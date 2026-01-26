@@ -1,6 +1,64 @@
 # BridgeLabz Training Progress Log 
 This repository tracks my daily learning journey during the BridgeLabz Java Full Stack Program. Each day includes Git/GitHub activities, Java concepts, and committed code links.
 ---
+## 📂 Project Structure
+
+```text
+BridgeLabz-Training/
+│
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 programming-prerequisites/
+│   │   ├── 📁 programming-elements/
+│   │   ├── 📁 control-flows/
+│   │   ├── 📁 arrays/
+│   │   ├── 📁 methods/
+│   │   ├── 📁 strings/
+│   │   └── 📁 extra/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+│
+├── 📁 java-oops-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/
+│   │               ├── 📁 constructor/
+│   │               ├── 📁 finalandstatic/
+│   │               ├── 📁 objectmodeling/
+│   │               ├── 📁 inheritance/
+│   │               └── 📁 encapsulation/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+│
+├── 📁 dsa-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaDsaPractice/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlist/
+│   │               ├── 📁 stacksandqueues/
+│   │               ├── 📁 hashing/
+|   |               ├── 📁 StringBuilder
+|   |               ├── 📁 StringBuffer
+|   |               ├── 📁 TimeAndSpaceComplexity
+|   |               ├── 📁 BufferedReader
+|   |               ├── 📁 searching
+│   │               └── 📁 sorting/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+|
+├── 📁 java-collections-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaCollections/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 generics/
+│   └── 📁 scenario-based-codebase/
+│
+└── README.md
+```
 ## Week-1 Git, GitHub & Core Java Fundamentals
 ---
 ### Date 15-Dec-2025 (Git & GitHub Setup)
@@ -138,3 +196,81 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Pushed solution to Github
 - Code Link: [dsa-practice(Notation)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructures) 
 - Code Link: [java-oops-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops)
+---
+### Date: 8-Jan-2026 (Studied dsa and Solved two oops Scenario-based Problems)
+- Worked on "dsa-practice" and "java-oops-practice" branch
+- Solved two scenario-based-probelems in OOPs
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops)
+---
+### Date: 9-Jan-2026 (Object Oriented programming scenario based questions)
+- Worked on "dsa-practice" and "java-oops-practice" branch
+- Solved practice problems and enhance the feature
+- pushed solutions to github
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops)
+---
+### Date: 10-Jan-2026 (Data structure and Algorithms based scenario based Problems)
+- Studeid data structures and Algorithms
+- Solved 3 DSA based real time scenario questions
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops)
+---
+### Date: 12-Jan-2026 (DSA and OOPs based scenario based Problems)
+- Solved Three Scenario based problems
+- pushed solutions to github
+- Studied Data Structure and Algorithm
+- Solved five real world Scenario based Problems using HashMap and LinkedList
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
+---
+### Date: 13-Jan-2026 (Scenario based Problem using java OOPs)
+- Data Structure scenario based problems
+- Worked on java-oops-practice and dsa-practice
+- practiced scenario based questions
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops)
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
+---
+## 🧠 Week 4 – Java Collections, Streams - Progress Log
+---
+### Date: 15-Jan-2026 (Sorting Algorithms & Java Generics Practice)
+####  Created a new branch `java-collections-practice`
+- Learned and applied Java Generics best practices:
+  - Generic classes, methods, and constructors
+  - Bounded type parameters and wildcards
+  - Type safety and reusability
+  
+#### 🔹 Implemented real-world generic systems:
+  - Smart Warehouse Management
+  - Online Marketplace
+  - Course Management System
+  - Meal Plan Generator
+  - AI-Driven Resume Screening System
+- Code Link: [java-collections-practice(Generics)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-codebase/collectionsPractice/src/generics)  
+---
+### Date: 15-Jan-2026 (Data Structures based real time Scenarios)
+- worked on dsa-practice scenario-based-problems
+- Sorting algorithms and Scenario based on Sorting
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
+---
+### Date: 16-Jan-2026 (Java Collections Framework) 
+**Branch:** `java-collections-practice`
+- Built strong fundamentals of **Java Collections**
+- Solved extensive **hands-on problems** across List, Set, Queue, and Map
+- Code Link: [java-collections-practice(collections)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-codebase/collectionsPractice/src/collections)
+---
+#### Date: 16-Jan-2026 (Data Structure Algorithms(Scenario-Based)- Sorting Algorithms)
+-	Solved Three Scenario-based Problems
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
+---
+### Date: 17-Jan-2026 (Java Collections Framework and OOPS- Scenario based Problems)
+-	Solved Two OOPs Scenario-based Problems
+-	Solved Five DSA Scenario-based Problems
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops)
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
+---
+### Date: 19-Jan-2026 (Data Structure Algorithms(Scenario-Based)- Sorting Algorithms)
+-	Solved Three Scenario-based Problems
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops)
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
+---
+### Date: 20-Jan-2026 (Data Structure Algorithms(Scenario-Based)- Sorting Algorithms)
+-	Solved Three Scenario-based Problems
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
+---
