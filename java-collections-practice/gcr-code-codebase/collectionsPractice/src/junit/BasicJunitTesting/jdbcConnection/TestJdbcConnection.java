@@ -27,7 +27,7 @@ public class TestJdbcConnection {
 	    rs = st.executeQuery("select * from users");
 	    
 	    assertNotNull(rs, "ResultSet should not be null");
-	    
+	     
 	    assertFalse(con.isClosed(), "Connection should be open during test");
 	    
 	    while(rs.next()) {
