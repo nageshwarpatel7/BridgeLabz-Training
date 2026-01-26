@@ -1,6 +1,7 @@
-package junit.AdvancedJunitTesting;
+package junit.AdvancedJunitTesting.bankAccount;
 
 import org.junit.jupiter.api.*;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TestAccount {

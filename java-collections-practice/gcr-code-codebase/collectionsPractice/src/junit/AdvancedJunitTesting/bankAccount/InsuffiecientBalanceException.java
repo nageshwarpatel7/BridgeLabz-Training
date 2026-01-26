@@ -1,4 +1,4 @@
-package junit.AdvancedJunitTesting;
+package junit.AdvancedJunitTesting.bankAccount;
 
 public class InsuffiecientBalanceException extends Exception{
 	
