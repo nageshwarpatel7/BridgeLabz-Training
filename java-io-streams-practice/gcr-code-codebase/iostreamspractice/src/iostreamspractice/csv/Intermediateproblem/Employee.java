@@ -1,6 +1,6 @@
 package iostreamspractice.csv.Intermediateproblem;
 
-class Employee {
+public class Employee {
     String name;
     String department;
     double salary;
