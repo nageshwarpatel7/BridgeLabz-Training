@@ -315,5 +315,10 @@ BridgeLabz-Training/
 - Code Link: [java-collections-practice(annotations)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-codebase/collectionsPractice/src/annotations)
 - Code Link: [dsa-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
 ---
-
-### Date: 23-Jan-2026 (
+## Week 5 : Java I/O Streams
+---
+### Date: 23-Jan-2026 (CSV Data Handling in Java)
+- Learned and solved CSV file data handling
+- Solved Five collecions scenario-based problems
+- Code Link: [java-collections-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-practice/src)
+- Code Link: [java-iostreams-practice(csv)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-iostreams-practice/java-io-streams-practice/gcr-code-codebase/iostreamspractice/src/iostreamspractice/csv)
