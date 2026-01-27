@@ -8,55 +8,80 @@ BridgeLabz-Training/
 │
 ├── 📁 core-java-practice/
 │   ├── 📁 gcr-codebase/
-│   │   ├── 📁 programming-prerequisites/
-│   │   ├── 📁 programming-elements/
-│   │   ├── 📁 control-flows/
-│   │   ├── 📁 arrays/
-│   │   ├── 📁 methods/
-│   │   ├── 📁 strings/
-│   │   └── 📁 extra/
-│   ├── 📁 leet-code-codebase/
-│   └── 📁 scenario-based-codebase/
+│   │   ├── 📁 prerequisites/          # Basic Java programs 
+│   │   ├── 📁 programming-elements/   # Java programming elements 
+│   │   ├── 📁 control-flows/          # If-else, loops, switch 
+│   │   ├── 📁 arrays/                 # Array operations
+│   │   ├── 📁 methods/                # Method practices
+│   │   ├── 📁 strings/                # String manipulation 
+│   │   └── 📁 Extras/                 # Built-in methods
+|   |
+│   ├── 📁 leet-code-codebase/         # LeetCode solutions
+│   └── 📁 scenario-based-codebase/    # Real-world problems
 │
 ├── 📁 java-oops-practice/
 │   ├── 📁 gcr-codebase/
-│   │   └── 📁 JavaOopsConcepts/
+│   │  └── 📁 JavaOopsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├── 📁 classandobject/
-│   │               ├── 📁 constructor/
-│   │               ├── 📁 finalandstatic/
-│   │               ├── 📁 objectmodeling/
-│   │               ├── 📁 inheritance/
-│   │               └── 📁 encapsulation/
-│   ├── 📁 leet-code-codebase/
-│   └── 📁 scenario-based-codebase/
-│
+│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+│   │               ├── 📁 constructor/       # Constructor, access modifiers
+│   │               ├── 📁 finalandstatic/    # Keywords, instance vs class members
+│   │               ├── 📁 objectmodeling/    # Diagrams, relationships, communication
+│   │               ├── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
 ├── 📁 dsa-practice/
 │   ├── 📁 gcr-codebase/
-│   │   └── 📁 JavaDsaPractice/
+│   │  └── 📁 DSAConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├── 📁 linkedlist/
-│   │               ├── 📁 stacksandqueues/
-│   │               ├── 📁 hashing/
-|   |               ├── 📁 StringBuilder
-|   |               ├── 📁 StringBuffer
-|   |               ├── 📁 TimeAndSpaceComplexity
-|   |               ├── 📁 BufferedReader
-|   |               ├── 📁 searching
-│   │               └── 📁 sorting/
-│   ├── 📁 leet-code-codebase/
-│   └── 📁 scenario-based-codebase/
+│   │               ├── 📁 linkedlists/       # singly, doubly & circular
+│   │               ├── 📁 stacks/            # Last-In-First-Out (LIFO)
+│   │               ├── 📁 queues/            # First-In-First-Out (FIFO)
+│   │               ├── 📁 hashmaps/          # Key-Value pairs
+│   │               ├── 📁 sorting/           # Sorting algorithms
+│   │               ├── 📁 searching/         # Searching algorithms
+│   │               └── 📁 analysis/          # Runtime Analysis & Big-O Notation
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
 |
 ├── 📁 java-collections-practice/
 │   ├── 📁 gcr-codebase/
-│   │   └── 📁 JavaCollections/
+│   │  └── 📁 CollectionsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├── 📁 generics/
-│   └── 📁 scenario-based-codebase/
-│
+│   │               ├── 📁 generics/          # Generic classes, methods, wildcards
+│   │               ├── 📁 listinterface/     # List interface and implementations
+│   │               ├── 📁 setinterface/      # Set interface and implementations
+│   │               ├── 📁 queueinterface/    # Queue & Deque interface examples
+│   │               ├── 📁 mapinterface/      # Map interface and implementations
+│   │               ├── 📁 examples/          # Hands-on example programs
+│   │               ├── 📁 streams/           # I/O streams, buffering, and serialization
+│   │               ├── 📁 exceptionhandling/ # Checked, unchecked, custom exceptions, try-with-resources
+│   │               ├── 📁 regex/             # Pattern matching, validation rules, groups & quantifiers
+│   │               ├── 📁 junit/             # Unit testing, assertions, test lifecycle, test cases
+│   │               ├── 📁 reflection/        # Runtime inspection, dynamic invocation, proxies
+│   │               └── 📁 annotations/       # Built-in & custom annotations, processors
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+├── 📁 java-iostreams-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 IOStreamsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
+│   │               └── 📁 jsondata/          # JSON parsing, schema validation, mapping, conversions
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
 └── README.md
 ```
 ## Week-1 Git, GitHub & Core Java Fundamentals
@@ -290,3 +315,6 @@ BridgeLabz-Training/
 - Worked on reflections
 - Code Link: [java-collections-practice(annotations)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-codebase/collectionsPractice/src/annotations)
 - Code Link: [dsa-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
+---
+
+### Date: 23-Jan-2026 (
