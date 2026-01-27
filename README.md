@@ -68,7 +68,7 @@ BridgeLabz-Training/
 │   │               ├── 📁 reflection/        # Runtime inspection, dynamic invocation, proxies
 │   │               └── 📁 annotations/       # Built-in & custom annotations, processors
 |   |
-│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   |
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
 ├── 📁 java-iostreams-practice/
@@ -79,7 +79,6 @@ BridgeLabz-Training/
 │   │               ├── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
 │   │               └── 📁 jsondata/          # JSON parsing, schema validation, mapping, conversions
 |   |
-│   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
 └── README.md
