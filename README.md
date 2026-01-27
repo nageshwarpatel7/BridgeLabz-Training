@@ -272,5 +272,7 @@ BridgeLabz-Training/
 ---
 ### Date: 20-Jan-2026 (Data Structure Algorithms(Scenario-Based)- Sorting Algorithms)
 -	Solved Three Scenario-based Problems
+-	Worked on exception handling
 - Code Link: [dsa-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
+- Code Link: [java-collections-practice(Exception Handling)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-codebase/collectionsPractice/src/ExceptionHandling)
 ---
