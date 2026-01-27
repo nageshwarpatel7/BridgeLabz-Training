@@ -285,4 +285,8 @@ BridgeLabz-Training/
 - Code Link: [java-collections-practice(regex)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-codebase/collectionsPractice/src/regex)
 ---
 ### Date: 22-Jan-2026 (Java Collections and Data Structure(Scenario-Based) problems)
-- Solved AVL
+- Solved AVL Tree scenario-based problems
+- Worked on annotations
+- Worked on reflections
+- Code Link: [java-collections-practice(annotations)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-codebase/collectionsPractice/src/annotations)
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
