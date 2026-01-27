@@ -276,3 +276,9 @@ BridgeLabz-Training/
 - Code Link: [dsa-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
 - Code Link: [java-collections-practice(Exception Handling)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-codebase/collectionsPractice/src/ExceptionHandling)
 ---
+### Date: 21-Jan-2026 (Java Collections and Data Structure(Scenario-Based) problems)
+- Solved Two sorting scenario-based problem
+- Worked on regex and junit practice
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src)
+- Code Link: [java-collections-practice(junit)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-codebase/collectionsPractice/src/junit)
+- Code Link: [java-collections-practice(regex)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-codebase/collectionsPractice/src/regex)
