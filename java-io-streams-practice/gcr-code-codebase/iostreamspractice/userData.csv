@@ -1,4 +1,6 @@
-ID	Name	Department	Salary
-0111CD22111	Nageshwar	AI	100000
-0111CD221098	Lucky	Java	50000
-0111CD221083	Himesh	HR	50000
+ID, Name, Department, Salary
+111,Nageshwar,DataScience,10000
+83,Himesh,DataScience,10000
+98,Lucky,DataScience,10000
+141,Rajeev,DataScience,10000
+140,Raj,DataScience,10000
