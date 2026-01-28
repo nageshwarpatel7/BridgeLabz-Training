@@ -3,4 +3,34 @@
   <groupId>com.scenaribasedcodebase</groupId>
   <artifactId>scenaribasedcodebase</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  
+  <dependencies>
+
+    <!-- JSON: Jackson -->
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-databind</artifactId>
+      <version>2.16.1</version>
+    </dependency>
+	<dependency>
+	  <groupId>org.json</groupId>
+	  <artifactId>json</artifactId>
+	  <version>20240303</version>
+	</dependency>
+    <!-- Jackson JSON -->
+    <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-databind</artifactId>
+        <version>2.16.1</version>
+    </dependency>
+
+    <!-- CSV: Apache Commons CSV -->
+    <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-csv</artifactId>
+      <version>1.10.0</version>
+    </dependency>
+
+  </dependencies>
 </project>
