@@ -1,4 +1,4 @@
-package reflection.basicproblems;
+package reflection.basicproblems.classinfo;
 
 import java.lang.reflect.*;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package reflection.basicproblems;
+package reflection.basicproblems.classinfo;
 
 public class Student {
 	
