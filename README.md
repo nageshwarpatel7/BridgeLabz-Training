@@ -17,9 +17,12 @@ BridgeLabz-Training/
 │   ├── 📁 gcr-codebase/
 │   │   └── 📁 JavaCollections/
 │   │       └── 📁 src/
-│   │           └── 📁 com/
 │   │               ├── 📁 generics/
 │   │               ├── 📁 collections/
+|   |               ├── 📁 JavaStreams
+|   |               ├── 📁 ExceptionHandling
+|   |               ├── 📁 Annotations
+|   |               ├── 📁 Reflection
 │   └── 📁 scenario-based-codebase/
 │
 └── README.md
