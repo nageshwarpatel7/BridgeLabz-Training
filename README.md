@@ -52,24 +52,16 @@ BridgeLabz-Training/
 |
 ├── 📁 java-collections-practice/
 │   ├── 📁 gcr-codebase/
-│   │  └── 📁 CollectionsConcepts/
+│   │   └── 📁 JavaCollections/
 │   │       └── 📁 src/
-│   │           └── 📁 com/
-│   │               ├── 📁 generics/          # Generic classes, methods, wildcards
-│   │               ├── 📁 listinterface/     # List interface and implementations
-│   │               ├── 📁 setinterface/      # Set interface and implementations
-│   │               ├── 📁 queueinterface/    # Queue & Deque interface examples
-│   │               ├── 📁 mapinterface/      # Map interface and implementations
-│   │               ├── 📁 examples/          # Hands-on example programs
-│   │               ├── 📁 streams/           # I/O streams, buffering, and serialization
-│   │               ├── 📁 exceptionhandling/ # Checked, unchecked, custom exceptions, try-with-resources
-│   │               ├── 📁 regex/             # Pattern matching, validation rules, groups & quantifiers
-│   │               ├── 📁 junit/             # Unit testing, assertions, test lifecycle, test cases
-│   │               ├── 📁 reflection/        # Runtime inspection, dynamic invocation, proxies
-│   │               └── 📁 annotations/       # Built-in & custom annotations, processors
+│   │            ├── 📁 generics/
+│   │            ├── 📁 collections/
+|   |            ├── 📁 JavaStreams
+|   |            ├── 📁 ExceptionHandling
+|   |            ├── 📁 Annotations
+|   |            ├── 📁 Reflection
 |   |
-│   |
-│   └── 📁 scenario-based-codebase/           # Real-world problems
+│   └── 📁 scenario-based-codebase/
 |
 ├── 📁 java-iostreams-practice/
 │   ├── 📁 gcr-codebase/
