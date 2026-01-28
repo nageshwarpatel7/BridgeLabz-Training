@@ -1,4 +1,5 @@
 [
   { "id": 1, "name": "Nageshwar", "age": 22, "department": "CS" },
-  { "id": 2, "name": "Lucky", "age": 22, "department": "Math" }
+  { "id": 2, "name": "Lucky", "age": 26, "department": "Math" },
+  { "id": 3, "name": "Ravi", "age": 30, "department": "Physics" }
 ]
