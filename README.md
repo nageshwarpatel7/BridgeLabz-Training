@@ -317,8 +317,14 @@ BridgeLabz-Training/
 ---
 ## Week 5 : Java I/O Streams
 ---
-### Date: 23-Jan-2026 (CSV Data Handling in Java)
+### Date: 23-Jan-2026 (CSV file Handling in Java)
 - Learned and solved CSV file data handling
 - Solved Five collecions scenario-based problems
 - Code Link: [java-collections-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-practice/src)
 - Code Link: [java-iostreams-practice(csv)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-iostreams-practice/java-io-streams-practice/gcr-code-codebase/iostreamspractice/src/iostreamspractice/csv)
+---
+### Date: 24-Jan-2026 (Json file handling)
+- Learned and solved JSON file handling
+- Solved collections scenario-based problems
+- Code Link: [java-collections-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-practice/src)
+- Code Link: [java-iostreams-practice(json)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-iostreams-practice/java-io-streams-practice/gcr-code-codebase/iostreamspractice/src/main/java/iostreamspractice/json)
