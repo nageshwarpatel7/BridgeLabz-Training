@@ -56,10 +56,10 @@ BridgeLabz-Training/
 │   │       └── 📁 src/
 │   │            ├── 📁 generics/
 │   │            ├── 📁 collections/
-|   |            ├── 📁 JavaStreams
-|   |            ├── 📁 ExceptionHandling
-|   |            ├── 📁 Annotations
-|   |            ├── 📁 Reflection
+|   |            ├── 📁 JavaStreams/
+|   |            ├── 📁 ExceptionHandling/
+|   |            ├── 📁 Annotations/
+|   |            ├── 📁 Reflection/
 |   |
 │   └── 📁 scenario-based-codebase/
 |
