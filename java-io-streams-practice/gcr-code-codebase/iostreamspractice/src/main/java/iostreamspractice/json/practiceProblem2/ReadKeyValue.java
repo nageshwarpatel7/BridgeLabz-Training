@@ -1,4 +1,4 @@
-package iostreamspractice.json.practiceProblem;
+package iostreamspractice.json.practiceProblem2;
 
 import com.fasterxml.jackson.databind.*;
 import java.io.File;
