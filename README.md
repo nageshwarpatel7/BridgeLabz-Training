@@ -9,24 +9,20 @@
 Studied the Java Collections Framework to manage groups of objects efficiently using built-in data structures. Learned the difference between Collection and Map interfaces and their real-world use cases.
 
 ## 📁Project Structure
-
 ```
-BridgeLabz-Training/
-├── 📁 java-iostreams-practice/
-│   ├── 📁 gcr-codebase/
-│   │  └── 📁 IOStreamsConcepts/
-│   │       └── 📁 src/
-│   │           └── 📁 com/
-│   │               ├── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
-│   │               └── 📁 jsondata/          # JSON parsing, schema validation, mapping, conversions
-|   |
-│   └── 📁 scenario-based-codebase/           # Real-world problems
-|
-└── README.md
----
-
-
----
+  BridgeLabz-Training/
+  ├── 📁 java-iostreams-practice/
+  │   ├── 📁 gcr-codebase/
+  │   │  └── 📁 IOStreamsConcepts/
+  │   │       └── 📁 src/
+  │   │           └── 📁 com/
+  │   │               ├── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
+  │   │               └── 📁 jsondata/          # JSON parsing, schema validation, mapping, conversions
+  |   |
+  │   └── 📁 scenario-based-codebase/           # Real-world problems
+  |
+  └── README.md
+```
 
 ## 📅 Day 28 – Java Collections & CSV Data Handling  
 **(23 Jan 2026)**
@@ -62,7 +58,7 @@ BridgeLabz-Training/
 - Solved practice problems and committed all work
 
 🔗 **Code Link:**  
-👉 [CSV Data Handling](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
+👉 [CSV Data Handling](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-iostreams-practice/java-io-streams-practice/gcr-code-codebase/iostreamspractice/src/main/java/iostreamspractice/csv)
 
 ---
 
@@ -85,7 +81,7 @@ BridgeLabz-Training/
 - Committed and pushed all work
 
 🔗 **Code Link:**  
-👉 [JSON Data Handling](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
+👉 [JSON Data Handling](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-iostreams-practice/java-io-streams-practice/gcr-code-codebase/iostreamspractice/src/main/java/iostreamspractice/json)
 
 ---
 
