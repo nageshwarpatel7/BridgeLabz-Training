@@ -320,3 +320,5 @@ BridgeLabz-Training/
 - Solved collections scenario-based problems
 - Code Link: [java-collections-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-practice/src)
 - Code Link: [java-iostreams-practice(json)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-iostreams-practice/java-io-streams-practice/gcr-code-codebase/iostreamspractice/src/main/java/iostreamspractice/json)
+---
+### Date: 27-Jan-2026 (java8 programming)
