@@ -22,3 +22,12 @@ BridgeLabz-Training/
 │ 	└── scenario-based-codebase/
 └── README.md
 ```
+- Studied Java 8 goals and functional-programming concepts.
+- Learned lambda expression syntax and target typing.
+- Implemented custom and predefined functional interfaces (`Predicate`, `Function`, `Consumer`, `Supplier`).
+- Practiced method references:
+  - Static, instance, and constructor forms.
+- Applied Java-8 best practices.
+- Solved practice problems and committed all work.
+- 🔗 **Code Link:**  
+👉 [Lambdas, Method Reference & Interfaces](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java)
