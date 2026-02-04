@@ -367,3 +367,16 @@ BridgeLabz-Training/
 🔗 Code Link:  
 - [java8-programmming-practice(scenario-based-question)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/src/main/java/)
 ---
+### 31-Jan-2026 (Scenario-based-question)
+- Explored design principles (SOLID, DRY, KISS, YAGNI)
+- Understand the design patterns
+- Singleton Pattern
+- Factory Pattern
+- Observer Pattern
+- Builder Pattern
+- UML Designing
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java8-programmming-practice(java-design-pattern-practice)]()
+---
