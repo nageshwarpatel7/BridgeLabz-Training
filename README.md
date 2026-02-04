@@ -321,4 +321,18 @@ BridgeLabz-Training/
 - Code Link: [java-collections-practice(scenario-code-base)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-practice/src)
 - Code Link: [java-iostreams-practice(json)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-iostreams-practice/java-io-streams-practice/gcr-code-codebase/iostreamspractice/src/main/java/iostreamspractice/json)
 ---
-### Date: 27-Jan-2026 (java8 programming)
+### Date: 27-Jan-2026 (java8 & its features)
+- Create new branch `java8-programmming-practice`
+- Solved Collections Problems based on Lambda Expressions
+- Lambda Expressions
+- Method References
+- Solved Collections Problems based on Functional Interfaces
+- Defining and Implementing Interfaces (Best Practices)
+- Functional Interfaces
+- Default and Static Methods in Interfaces
+- Marker Interfaces
+- Improved design and problem-solving skills
+🔗 Code Link:  
+- [java8-programmming-practice(Lambda Expressions)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/lambdaExpression)
+- [java8-programmming-practice(Functional Interfaces)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/functionalInterface)
+---
