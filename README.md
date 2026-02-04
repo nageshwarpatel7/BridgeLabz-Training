@@ -367,7 +367,7 @@ BridgeLabz-Training/
 🔗 Code Link:  
 - [java8-programmming-practice(scenario-based-question)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/src/main/java/)
 ---
-### 31-Jan-2026 (Scenario-based-question)
+### 31-Jan-2026 (Design Pattern and Design Principles)
 - Explored design principles (SOLID, DRY, KISS, YAGNI)
 - Understand the design patterns
 - Singleton Pattern
@@ -380,3 +380,14 @@ BridgeLabz-Training/
 🔗 Code Link:  
 - [java8-programmming-practice(java-design-pattern-practice)]()
 ---
+### 02-Feb-2026 (Java Multithreading)
+- Creating Threads Using Thread Class
+- Creating Threads Using Runnable Interface
+- Thread Class vs Runnable Interface
+- Thread Life Cycle and States
+- Thread Methods and Operations
+- Solved problems based on multithreading
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java8-programmming-practice(multithreading)]()
