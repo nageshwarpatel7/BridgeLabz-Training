@@ -353,7 +353,14 @@ BridgeLabz-Training/
 - [java8-programmming-practice(streamAPI)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/streamapi)
 - [java8-programmming-practice(collectors)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/collectors)
 ---
-### 29-Jan-2026 (scenario-based-question)
+### 29-Jan-2026 (scenario-based-questions)
+- Solved Sceanrio based problem in Stream API
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java8-programmming-practice(scenario)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/src/main/java/)
+---
+### 30-Jan-2026 (Scenario-based-questions)
 - Solved Sceanrio based problem in Stream API
 - Improved design and problem-solving skills  
 
