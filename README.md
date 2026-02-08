@@ -398,6 +398,11 @@ BridgeLabz-Training/
 
 🔗 Code Link:  
 - [java-design-pattern-practice(scenario)]()
-
+---
 ### 04-Feb-2026 (Scenario Based Problem)
+- Solved Sceanrio based problem in Stream API
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java8-programmming-practice(scenario)]()
 
