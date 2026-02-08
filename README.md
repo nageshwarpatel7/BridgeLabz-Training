@@ -73,6 +73,30 @@ BridgeLabz-Training/
 |   |
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
+├── 📁 java8-programming-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 Java8Concepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 lambdas/           # Lambda expressions, functional interfaces, syntax
+│   │               ├── 📁 methodreferences/  # Static, instance, constructor references
+│   │               ├── 📁 interfaces/        # Default methods, static methods, functional interfaces
+│   │               ├── 📁 streams/           # Stream API, intermediate & terminal operations
+│   │               ├── 📁 collectors/        # Grouping, partitioning, summarizing collectors
+│   │               └── 📁 workshop/          # Mini projects & real-world stream problems
+|   |
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+├── 📁 java-design-pattern-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 DesignConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 designprinciples/  # SOLID principles and design patterns
+│   │               └── 📁 multithreading/    # Thread lifecycle, synchronization, concurrency examples 
+|   |
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
 └── README.md
 ```
 ## Week-1 Git, GitHub & Core Java Fundamentals
