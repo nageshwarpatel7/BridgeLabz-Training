@@ -390,4 +390,14 @@ BridgeLabz-Training/
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [java8-programmming-practice(multithreading)]()
+- [java8-programmming-practice(multithreading)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/multithreading)
+---
+### 03-Feb-2026 (Scenario Based Problem)
+- Solved Sceanrio based problem in Multithreading
+- Improved design and problem-solving skills
+
+🔗 Code Link:  
+- [java-design-pattern-practice(scenario)]()
+
+### 04-Feb-2026 (Scenario Based Problem)
+
