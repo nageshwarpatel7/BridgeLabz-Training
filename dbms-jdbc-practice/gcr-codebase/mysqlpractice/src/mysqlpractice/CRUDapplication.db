@@ -1,4 +1,3 @@
-
 create table employees (empID varchar(4) primary key, EmpFname varchar(25), EmpLname varchar(25), salary decimal, JoinYear int);
 Query OK, 0 rows affected (0.09 sec)
 
