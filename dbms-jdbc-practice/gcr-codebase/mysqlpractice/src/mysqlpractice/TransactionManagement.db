@@ -1,0 +1,116 @@
+                    --- Implement a banking system ---
+
+-- created accounts table 
+accounts table :
+mysql> create table accounts(acc_no integer primary key, 
+acc_holder_name varchar(50),balance decimal(10,2) default 0);
+
+describe accounts;
+
++-----------------+---------------+------+-----+---------+-------+
+| Field           | Type          | Null | Key | Default | Extra |
++-----------------+---------------+------+-----+---------+-------+
+| acc_no          | int           | NO   | PRI | NULL    |       |
+| acc_holder_name | varchar(50)   | YES  |     | NULL    |       |
+| amount          | decimal(10,2) | YES  |     | NULL    |       |
++-----------------+---------------+------+-----+---------+-------+
+
+-- created transaction table
+
+Transaction table :
+mysql> create table transactions(trans_id integer auto_increment primary key,
+ trans_type varchar(50),trans_amount decimal(10,2), acc_no integer, 
+ fk_acc foreign key (acc_no) references accounts(acc_no));
+
+describe transaction;
++--------------+---------------+------+-----+---------+----------------+
+| Field        | Type          | Null | Key | Default | Extra          |
++--------------+---------------+------+-----+---------+----------------+
+| trans_id     | int           | NO   | PRI | NULL    | auto_increment |
+| trans_type   | varchar(50)   | YES  |     | NULL    |                |
+| trans_amount | decimal(10,2) | YES  |     | NULL    |                |
+| acc_no       | int           | YES  | MUL | NULL    |                |
++--------------+---------------+------+-----+---------+----------------+
+
+created stored procedure to add account in accounts table
+	Delimiter $$
+		create procedure addCust(In accNo int, In name varchar(50), In amount decimal(10,2))
+	    begin
+	    insert into accounts values(accNo, name, amount);
+	    end $$
+Query OK, 0 rows affected (0.03 sec)
+Delimiter ;
+
+-----------------------------------------------------------------------------------------
+
+-- Transaction procedure
+DELIMITER $$
+
+CREATE PROCEDURE withdraw(
+    IN rec_id INT,
+    IN sen_id INT,
+    IN val DECIMAL(10,2)
+)
+BEGIN
+    DECLARE sender_bal DECIMAL(10,2);
+
+    START TRANSACTION;
+
+    -- Lock sender row
+    SELECT amount
+    INTO sender_bal
+    FROM accounts
+    WHERE acc_no = sen_id
+    FOR UPDATE;
+
+    IF sender_bal >= val THEN
+
+        -- Debit sender
+        UPDATE accounts
+        SET amount = amount - val
+        WHERE acc_no = sen_id;
+
+        -- Credit receiver
+        UPDATE accounts
+        SET amount = amount + val
+        WHERE acc_no = rec_id;
+
+        -- Insert transaction records
+        INSERT INTO transactions (trans_type, trans_amount, acc_no)
+        VALUES
+            ('Withdraw', val, sen_id),
+            ('Credit', val, rec_id);
+
+        COMMIT;
+    ELSE
+        ROLLBACK;
+    END IF;
+
+END $$
+
+DELIMITER ;
+
+---------------------------------------------------------------------------------------
+
+-- values before transaction in  accounts table 
+select * from accounts;
++--------+-----------------+------------+
+| acc_no | acc_holder_name | amount     |
++--------+-----------------+------------+
+|   1022 | Nageshwar       | 1009390.00 |
+|   1023 | Lucky           |  281973.00 |
+|   1024 | Himesh          |  280000.00 |
++--------+-----------------+------------+
+
+call withdraw(1022, 1023, 500);
+Query OK, 0 rows affected (0.01 sec)
+
+-- values after transaction in accounts table
+select * from accounts
++--------+-----------------+------------+
+| acc_no | acc_holder_name | amount     |
++--------+-----------------+------------+
+|   1022 | Nageshwar       | 1010390.00 |
+|   1023 | Lucky           |  280973.00 |
+|   1024 | Himesh          |  280000.00 |
++--------+-----------------+------------+
