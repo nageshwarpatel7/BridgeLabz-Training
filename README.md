@@ -458,3 +458,11 @@ BridgeLabz-Training/
 🔗 Code Link:  
 - [mysql-jdbc-practice(mysql)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/src/sqlpractice)
 ---
+### 09-feb-2026 (JDBC)
+- Establishing Database Connection
+- CRUD Operations
+- PreparedStatement
+- Improved design and problem-solving skills
+🔗 Code Link:  
+- [mysql-jdbc-practice(jdbcPractice)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/mysqlpractice/src/jdbcPractice)
+---
