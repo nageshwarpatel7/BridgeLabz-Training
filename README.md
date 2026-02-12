@@ -430,19 +430,9 @@ BridgeLabz-Training/
 🔗 Code Link:  
 - [java8-programmming-practice(scenario)]()
 ---
-### 05-Feb-2026
+### 05-Feb-2026 (Scenario Based Problem)
 - Solved Sceanrio based problem in Stream API
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
 - [java8-programmming-practice(scenario)]()
----
-## 🗓️ Week 08 - MySQL & JDBC
----
-### 06-Feb-2026
-- Create new branch `dbms-jdbc-practice`
-- Improved design and problem-solving skills
-- 🔗 Code Link:  
-- [mysql-jdbc-practice(mysql)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/mysqlpractice/src/mysqlpractice)
-
----
