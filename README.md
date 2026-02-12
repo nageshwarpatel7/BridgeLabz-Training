@@ -472,3 +472,10 @@ BridgeLabz-Training/
 - Improved database concepts and problem solving skills
 🔗 Code Link:  
 - [mysql-jdbc-practice(jdbcPractice)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/mysqlpractice/src/jdbcPractice)
+---
+### 12-feb-2026 (Scenario Based Problems)
+- Practice JDBC concepts
+- Transactions and advanced JDBC concepts
+- Improved database concepts and problem solving skills
+🔗 Code Link:  
+- [mysql-jdbc-practice(jdbcPractice)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/src/sqlpractice)
