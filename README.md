@@ -421,21 +421,21 @@ BridgeLabz-Training/
 - Improved design and problem-solving skills
 
 🔗 Code Link:  
-- [java-design-pattern-practice(scenario)]()
+- [java8-programmming-practice(scenario)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/src/main/java)
 ---
 ### 04-Feb-2026 (Scenario Based Problem)
 - Solved Sceanrio based problem in Stream API
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [java8-programmming-practice(scenario)]()
+- [java8-programmming-practice(scenario)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/src/main/java)
 ---
 ### 05-Feb-2026 (Scenario Based Problem)
 - Solved Sceanrio based problem in Stream API
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [java8-programmming-practice(scenario)]()
+- [java8-programmming-practice(scenario)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/src/main/java)
 ---
 ## 🗓️ Week 08 - MySQL & JDBC
 ---
