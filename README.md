@@ -22,6 +22,15 @@ Each day includes:
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [dbms-jdbc-practice(mysql)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-code-base/MySqlPractice)
+- [dbms-jdbc-practice(mysql)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/mysqlpractice/src/mysqlpractice)
 
+---
+### 07-feb-2026 (Scenario Based Problem (MySql))
+- Solved These Problems on mysql terminal
+- Patient Management
+- Doctor Management
+- Appointment Scheduling
+- Improved design and problem-solving skills
+🔗 Code Link:  
+- [mysql-jdbc-practice(mysql)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/src/sqlpractice)
 ---
