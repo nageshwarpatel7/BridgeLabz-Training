@@ -42,3 +42,10 @@ Each day includes:
 🔗 Code Link:  
 - [mysql-jdbc-practice(jdbcPractice)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/mysqlpractice/src/jdbcPractice)
 ---
+### 11-feb-2026 (JDBC)
+- Practice JDBC concepts
+- Stored procedures
+- Improved database concepts and problem solving skills
+🔗 Code Link:  
+- [mysql-jdbc-practice(jdbcPractice)](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/mysqlpractice/src/jdbcPractice)
+---
