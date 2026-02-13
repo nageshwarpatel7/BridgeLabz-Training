@@ -10,3 +10,18 @@ Each day includes:
 - GitHub commits with code links
 
 ---
+## 🗓️ Week 08 - MySQL & JDBC
+**Focus:** MySQL, and JDBC
+
+---
+
+### Date 06-Feb-2026 (MySQL) 
+- Create new branch `jdbc-mysql-practice`
+- CRUD Operation in mysql
+- Solve problems and data base
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [mysql-jdbc-practice(mysql)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-code-base/MySqlPractice)
+
+---
